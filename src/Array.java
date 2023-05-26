@@ -12,7 +12,7 @@ public class Array {
         System.out.println(stringArray[1]);
         System.out.println(stringArray[2]);
         System.out.println(stringArray[3]);
-
+        System.out.println("===============");
         //ganti nilai array
         stringArray[0] = "Bayu";
 
@@ -20,7 +20,7 @@ public class Array {
         System.out.println(stringArray[1]);
         System.out.println(stringArray[2]);
         System.out.println(stringArray[3]);
-
+        System.out.println("===============");
     
     //inisiasi array
     String[] namaNama = {
@@ -36,7 +36,7 @@ public class Array {
     };
     System.out.println(arrayInt[5]);
     System.out.println(arrayInt.length);
-
+    System.out.println("===============");
 
     //array didalam array
     String[][] members = {

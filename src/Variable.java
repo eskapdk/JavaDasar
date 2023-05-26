@@ -13,7 +13,7 @@ public class Variable {
     
         name = "Dian Kurniawan";
         System.out.println(name);
-        
+        System.out.println("===============");
         //dengan var harus dideklarasikan var nya
         var firstName = "Eska";
         var middleName = "Pratama";
@@ -22,7 +22,7 @@ public class Variable {
         System.out.println(firstName);
         System.out.println(middleName);
         System.out.println(lastName);
-        
+        System.out.println("===============");
         //var yang tidak dapat dirubah isinnya karena ada final
         final String application = "Belajar Java";
         System.out.println(application);
